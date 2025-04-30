@@ -1,0 +1,6 @@
+@Aton_task_HostAddress = http://localhost:5109
+
+GET {{Aton_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
